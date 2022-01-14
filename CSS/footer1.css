@@ -1,0 +1,184 @@
+.footer {
+position: absolute;
+top: 3100px;
+left:-10px;
+bottom: -35px;
+Height:400px;
+right: 0px;
+width: 1520.63px;
+background-color: #3270FF;
+color: white;
+text-align: left;
+/* transform: rotate(2.67deg); */
+}
+
+.h1{
+/* transform: rotate(-2.67deg); */
+position: absolute;
+display: inline;
+width: 211px;
+height: 39px;
+left: 0px;
+top: 0px;
+padding-left: 200px;
+padding-top: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 39px;
+color: #FFFFFF;
+}
+
+.h2{
+  /* transform: rotate(-2.67deg); */
+  position: absolute;
+  display: inline;
+  width: 211px;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+  padding-left: 200px;
+  padding-top: 150px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 40px;
+  text-decoration:none;
+
+}
+
+.h3{
+/* transform: rotate(-2.67deg); */
+position: absolute;
+display: inline;
+width: 211px;
+height: 39px;
+left: 0px;
+top: 0px;
+padding-left: 600px;
+padding-top: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 39px;
+color: #FFFFFF;
+}
+
+.h4{
+  /* transform: rotate(-2.67deg); */
+  position: absolute;
+  display: inline;
+  width: 211px;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+  padding-left: 600px;
+  padding-top: 140px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+.h5{
+/* transform: rotate(-2.67deg); */
+position: absolute;
+display: inline;
+width: 211px;
+height: 39px;
+left: 0px;
+top: 0px;
+padding-left: 1100px;
+padding-top: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 39px;
+color: #FFFFFF;
+}
+
+.h6{
+  /* transform: rotate(-2.67deg); */
+  position: absolute;
+  display: inline;
+  width: auto;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+  padding-left: 1100px;
+  padding-top: 130px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+
+.button{
+
+position: static;
+width:148.17px;
+height: 52.3px;
+left: 29.09px;
+top: 14.15px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 200;
+font-size: 13px;
+line-height: 24px;
+
+
+
+color: #3270FF;
+
+
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+background: #3270FF;
+border-radius: 11px;
+border-color: white;
+
+}
+
+
+.button1 {
+  background-color:#3270FF ;
+  color: white;
+}
+
+.button1:hover {
+  background-color: white;
+  color: #3270FF;
+}
+
+.h7{
+
+  position: absolute;
+  display: inline;
+  width: auto;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+  align-content: center;
+  padding-left: 700px;
+  padding-top: 330px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 9px;
+  line-height: 28px;
+  color: #FFFFFF;
+
+}

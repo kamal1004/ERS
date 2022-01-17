@@ -1,0 +1,368 @@
+.con1{
+  position: absolute;
+width: 1302px;
+height: 284px;
+left: 105px;
+top: 620px;
+
+background: #EEEDFF;
+border-radius: 20px;
+}
+.d1{
+  position: absolute;
+  display: inline;
+width: 775px;
+height: 65px;
+left: 105px;
+top: 980px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 109%;
+/* or 65px */
+
+letter-spacing: -0.02em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.d2{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 39px;
+left: 105px;
+top: 1100px;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 109%;
+/* identical to box height, or 49px */
+
+letter-spacing: -0.02em;
+
+/* ERS/Pri */
+
+color: #3270FF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.d3{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 39px;
+left: 105px;
+top: 1180px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+/* identical to box height */
+
+letter-spacing: 0.035em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.d4{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 54px;
+left: 105px;
+top: 1230px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.035em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+
+.button51{
+
+position: absolute;
+display: inline;
+width:148.17px;
+height: 52.3px;
+left: 105px;
+top: 1360px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 24px;
+
+
+
+color: #3270FF;
+
+
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+background: #3270FF;
+border-radius: 11px;
+
+}
+
+
+.button52:hover  {
+  background-color:#3270FF ;
+  color: white;
+}
+
+.button52{
+  background-color: white;
+  color: #3270FF;
+}
+
+.d5{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 39px;
+left: 105px;
+top: 1440px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+/* identical to box height */
+
+letter-spacing: 0.035em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+
+.d6{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 54px;
+left: 105px;
+top: 1490px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.035em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+
+.button61{
+
+position: absolute;
+display: inline;
+width:148.17px;
+height: 52.3px;
+left: 105px;
+top: 1620px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 24px;
+
+
+
+color: #3270FF;
+
+
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+background: #3270FF;
+border-radius: 11px;
+
+}
+
+.button62:hover  {
+  background-color:#3270FF ;
+  color: white;
+}
+
+.button62{
+  background-color: white;
+  color: #3270FF;
+}
+
+
+
+.d7{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 39px;
+left: 105px;
+top: 1700px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+/* identical to box height */
+
+letter-spacing: 0.035em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.d8{
+  position: absolute;
+  display: inline;
+width: 1302px;
+height: 54px;
+left: 105px;
+top: 1750px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.035em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.button71{
+
+position: absolute;
+display: inline;
+width:148.17px;
+height: 52.3px;
+left: 105px;
+top: 1880px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 24px;
+
+
+
+color: #3270FF;
+
+
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+background: #3270FF;
+border-radius: 11px;
+
+}
+
+.button72:hover  {
+  background-color:#3270FF ;
+  color: white;
+}
+
+.button72{
+  background-color: white;
+  color: #3270FF;
+}

@@ -109,7 +109,7 @@ display: inline;
 width:148.17px;
 height: 52.3px;
 left: 690px;
-top: 600px;
+top: 570px;
 
 font-family: Poppins;
 font-style: normal;
@@ -221,7 +221,7 @@ position: absolute;
 width: 706px;
 height: 108px;
 left: 800px;
-top: 1150px;
+top: 1080px;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -488,11 +488,11 @@ margin: 2px 0px;
 .a11{
   position: absolute;
   display: inline;
-width: 276px;
+width: 280px;
 height: 108px;
 left: 800px;
-top: 350px;
-
+top: 360px;
+text-align: left;
 font-family: Nunito Sans;
 font-style: normal;
 font-weight: normal;
@@ -633,7 +633,7 @@ margin: 2px 0px;
 width: 276px;
 height: 108px;
 left: 1200px;
-top: 510px;
+top: 520px;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -693,9 +693,9 @@ margin: 9px 0px;
 
 display: inline;
 position: absolute;
-width: 400px;
+width: 1000px;
 height: 130px;
-left: 557.5px;
+left: 260px;
 top: 2220px;
 
 font-family: Roboto Slab;

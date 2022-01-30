@@ -6,7 +6,7 @@ flex-direction: column;
 align-items: flex-start;
 padding: 9px 105px;
 
-width: 1512px;
+width: 100%;
 height: 20px;
 left: 0px;
 top: 112px;
@@ -82,7 +82,7 @@ margin: 0px 769px;
   display: inline;
 width: 160px;
 height: 24px;
-left: 950px;
+left: 70%;
 top: 16px;
 
 font-family: Poppins;
@@ -112,7 +112,7 @@ margin: 0px 10px;
   display: inline;
 width: 160px;
 height: 24px;
-left: 1150px;
+left: 60%;
 top: 8px;
 
 font-family: Poppins;
@@ -140,8 +140,8 @@ margin: 0px 10px;
 .seco{
   display: inline;
   position: absolute;
-  width: 1515px;
-  height: 216px;
+  width: 100%;
+  height: 25%;
   left: 0px;
   top: 150px;
 
@@ -149,9 +149,9 @@ margin: 0px 10px;
 .b7{
   position: absolute;
   display: inline;
-width: 775px;
+width: 40%;
 height: 65px;
-left: 372.5px;
+left: 30%;
 top: 210px;
 
 font-family: Roboto Slab;
@@ -179,17 +179,17 @@ margin: 9px 0px;
 
 .b8{
   position: absolute;
-width: 456px;
-height: 424px;
-left: 889px;
-top: 503px;
+width: 40%;
+height: 70%;
+left: 55%;
+top: 55%;
 }
 .b9{
   position: absolute;
-width: 591px;
-height: 408px;
-left: 134px;
-top: 435px;
+width: 40%;
+height: 80%;
+left: 10%;
+top: 55%;
 text-align: justify;
 
 font-family: Nunito Sans;
@@ -205,10 +205,10 @@ color: #000000;
 .seco1{
   display: inline;
   position: absolute;
-  width: 1515px;
-  height: 216px;
+  width: 100%;
+  height: 35%;
   left: 0px;
-  top: 1050px;
+  top: 135%;
 
 }
 
@@ -217,8 +217,8 @@ color: #000000;
   display: inline;
 width: 775px;
 height: 65px;
-left: 372.5px;
-top: 1100px;
+left: 29%;
+top: 150%;
 
 font-family: Roboto Slab;
 font-style: normal;
@@ -247,8 +247,8 @@ margin: 9px 0px;
   position: absolute;
 width: 63px;
 height: 63px;
-left: 200px;
-top: 1350px;
+left: 12%;
+top: 180%;
 
 /* ERS/Dummy */
 
@@ -265,8 +265,8 @@ margin: 12px 0px;
   position: absolute;
 width: 63px;
 height: 53px;
-left: 700px;
-top: 1350px;
+left: 42%;
+top: 180%;
 
 /* ERS/Dummy */
 
@@ -283,10 +283,10 @@ margin: 12px 0px;
   position: absolute;
 width: 63px;
 height: 53px;
-left: 1150px;
-top: 1350px;
+left: 72%;
+top: 180%;
 
-/* ERS/Dummy */
+
 
 
 
@@ -302,8 +302,8 @@ margin: 12px 0px;
   position: absolute;
 width: 276px;
 height: 39px;
-left: 200px;
-top: 1450px;
+left: 12%;
+top: 190%;
 
 font-family: Poppins;
 font-style: normal;
@@ -333,8 +333,8 @@ margin: 2px 0px;
   position: absolute;
 width: 276px;
 height: 39px;
-left: 700px;
-top: 1450px;
+left: 42%;
+top: 190%;
 
 font-family: Poppins;
 font-style: normal;
@@ -364,8 +364,8 @@ margin: 2px 0px;
   position: absolute;
 width: 276px;
 height: 39px;
-left: 1150px;
-top: 1450px;
+left: 72%;
+top: 190%;
 
 font-family: Poppins;
 font-style: normal;
@@ -396,8 +396,8 @@ margin: 2px 0px;
   display: inline;
 width: 276px;
 height: 108px;
-left: 200px;
-top: 1530px;
+left: 12%;
+top: 200%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -425,8 +425,8 @@ margin: 2px 0px;
   display: inline;
 width: 276px;
 height: 108px;
-left: 700px;
-top: 1520px;
+left: 42%;
+top: 200%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -454,8 +454,8 @@ margin: 2px 0px;
   display: inline;
 width: 276px;
 height: 108px;
-left: 1150px;
-top: 1530px;
+left: 72%;
+top: 200%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -480,12 +480,12 @@ margin: 2px 0px;
 
 .footer1 {
 position: absolute;
-top: 1750px;
-left:-10px;
+top: 220%;
+
 bottom: 0px;
-Height:280px;
+Height:48%;
 right: 0px;
-width: 1520.63px;
+width: 100%;
 background-color: #3270FF;
 color: white;
 text-align: left;

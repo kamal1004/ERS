@@ -1,20 +1,21 @@
 .mid{
 position: absolute;
-width:1515px;
-height:690px;
+width: 100%;
+height:90%;
 left: 0px;
 top: 112px;
 margin: 0px;
 padding-bottom: 0px;
 }
 
+
 .a1{
   display: inline;
   position: absolute;
-  width: 310px;
+  width: 25%;
   height: 24px;
-  left: 602.5px;
-  top: 200px;
+  padding-left: 40%;
+  top: 25%;
 
 font-family: Poppins;
 font-style: normal;
@@ -39,10 +40,10 @@ margin: 9px 0px;
 
   display: inline;
   position: absolute;
-width: 775px;
+width: 70%;
 height: 130px;
-left: 370px;
-top: 250px;
+padding-left:15%;
+top: 35%;
 
 font-family: Roboto Slab;
 font-style: normal;
@@ -73,10 +74,10 @@ margin: 9px 0px;
 
 display: inline;
 position: absolute;
-width: 766px;
+width: 50%;
 height: 108px;
-left: 370px;
-top: 420px;
+padding-left:25%;
+top:60%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -108,8 +109,8 @@ position: absolute;
 display: inline;
 width:148.17px;
 height: 52.3px;
-left: 690px;
-top: 570px;
+left: 45%;
+top: 80%;
 
 font-family: Poppins;
 font-style: normal;
@@ -146,10 +147,10 @@ border-radius: 11px;
 
 .mid1{
 position: absolute;
-width:582px;
-height: 542px;
-left: 100px;
-top: 850px;
+width:40%;
+height: 70%;
+left: 10%;
+top: 115%;
 margin: 0px;
 padding-bottom: 120px;
 }
@@ -159,8 +160,8 @@ padding-bottom: 120px;
   position: absolute;
   width: 310px;
   height: 24px;
-  left: 800px;
-  top: 950px;
+  left: 55%;
+  top: 120%;
 
 font-family: Poppins;
 font-style: normal;
@@ -186,8 +187,8 @@ display: inline;
 position: absolute;
 width: auto;
 height: 130px;
-left: 800px;
-top: 1000px;
+left: 55%;
+top: 128%;
 
 font-family: Roboto Slab;
 font-style: normal;
@@ -218,17 +219,19 @@ margin: 9px 0px;
 
 display: inline;
 position: absolute;
-width: 706px;
+width: 600px;
 height: 108px;
-left: 800px;
-top: 1080px;
+left: 55%;
+top: 140%;
+text-align:justify;
+
 
 font-family: Nunito Sans;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 27px;
-text-align: left;
+
 letter-spacing: 0.035em;
 
 /* White */
@@ -254,8 +257,8 @@ position: absolute;
 display: inline;
 width:148.17px;
 height: 52.3px;
-left: 800px;
-top: 1300px;
+left: 55%;
+top: 173%;
 
 font-family: Poppins;
 font-style: normal;
@@ -292,10 +295,10 @@ border-radius: 11px;
 
 .mid2 {
 position: absolute;
-top:1450px;
+top:195%;
 left:-12px;
 bottom: 35px;
-Height:700px;
+Height:95%;
 right: 0px;
 width: auto;
 background-color: black;
@@ -309,8 +312,8 @@ text-align: left;
   position: absolute;
   width: 310px;
   height: 24px;
-  left: 50px;
-  top: 90px;
+  left: 5%;
+  top: 5%;
 
   font-family: Poppins;
 font-style: normal;
@@ -337,29 +340,28 @@ margin: 9px 0px;
 .a8{
 
 
-  display: inline;
-  position: absolute;
+display: inline;
+position: absolute;
 width: 775px;
 height: 130px;
-left: 50px;
-top: 140px;
+left: 5%;
+top: 15%;
 
 font-family: Roboto Slab;
 font-style: normal;
 font-weight: bold;
 font-size: 60px;
 line-height: 109%;
-/* or 65px */
+
 
 text-align: left;
 letter-spacing: -0.02em;
 
-/* White */
+
 
 color: #FFFFFF;
 
 
-/* Inside auto layout */
 
 flex: none;
 order: 1;
@@ -376,8 +378,8 @@ display: inline;
 position: absolute;
 width: 600px;
 height: 108px;
-left: 50px;
-top: 260px;
+left: 5%;
+top: 35%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -409,8 +411,8 @@ margin: 9px 0px;
 position: absolute;
 width:148.17px;
 height: 52.3px;
-left: 50px;
-top: 470px;
+left: 5%;
+top: 70%;
 
 font-family: Poppins;
 font-style: normal;
@@ -447,10 +449,10 @@ border-color: white;
 
 .mid3{
 position: absolute;
-width:63px;
-height: 63px;
-left: 800px;
-top: 200px;
+width:5%;
+height: 10%;
+left: 51%;
+top: 28%;
 margin: 0px;
 padding-bottom: 0px;
 }
@@ -460,8 +462,8 @@ padding-bottom: 0px;
   display: inline;
 width: 276px;
 height: 78px;
-left: 800px;
-top: 260px;
+left: 51%;
+top: 38%;
 
 font-family: Poppins;
 font-style: normal;
@@ -490,8 +492,8 @@ margin: 2px 0px;
   display: inline;
 width: 280px;
 height: 108px;
-left: 800px;
-top: 360px;
+left: 51%;
+top: 55%;
 text-align: left;
 font-family: Nunito Sans;
 font-style: normal;
@@ -519,10 +521,10 @@ margin: 2px 0px;
 
 .mid4{
 position: absolute;
-width:63px;
-height: 63px;
-left: 1200px;
-top: 50px;
+width:5%;
+height: 10%;
+left: 75%;
+top: 5%;
 margin: 0px;
 padding-bottom: 0px;
 }
@@ -532,8 +534,8 @@ padding-bottom: 0px;
   display: inline;
 width: 276px;
 height: 78px;
-left: 1200px;
-top: 110px;
+left: 75%;
+top: 17%;
 
 font-family: Poppins;
 font-style: normal;
@@ -562,8 +564,8 @@ margin: 2px 0px;
   display: inline;
 width: 276px;
 height: 108px;
-left: 1200px;
-top: 200px;
+left: 75%;
+top: 30%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -589,10 +591,10 @@ margin: 2px 0px;
 
 .mid5{
 position: absolute;
-width:63px;
-height: 63px;
-left: 1200px;
-top: 350px;
+width:5%;
+height: 10%;
+left: 75%;
+top: 52%;
 margin: 0px;
 padding-bottom: 0px;
 }
@@ -602,8 +604,8 @@ padding-bottom: 0px;
   display: inline;
 width: 276px;
 height: 78px;
-left: 1200px;
-top: 420px;
+left: 75%;
+top: 64%;
 
 font-family: Poppins;
 font-style: normal;
@@ -632,8 +634,8 @@ margin: 2px 0px;
   display: inline;
 width: 276px;
 height: 108px;
-left: 1200px;
-top: 520px;
+left: 75%;
+top: 80%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -662,8 +664,8 @@ margin: 2px 0px;
   position: absolute;
   width: 310px;
   height: 24px;
-  left: 602.5px;
-  top: 2180px;
+  left: 40%;
+  top: 295%;
 
   font-family: Poppins;
 font-style: normal;
@@ -695,8 +697,8 @@ display: inline;
 position: absolute;
 width: 1000px;
 height: 130px;
-left: 260px;
-top: 2220px;
+left: 22%;
+top: 300%;
 
 font-family: Roboto Slab;
 font-style: normal;
@@ -730,8 +732,8 @@ display: inline;
 position: absolute;
 width: 706px;
 height: 108px;
-left: 404.5px;
-top: 2290px;
+left: 30%;
+top: 310%;
 
 font-family: Nunito Sans;
 font-style: normal;
@@ -759,37 +761,36 @@ margin: 9px 0px;
 
 .con{
   position: absolute;
-width: 1302px;
+width:87%;
 height: 284px;
-left: 105px;
-top: 2600px;
+left: 8%;
+top: 345%;
 
 background: #EEEDFF;
 border-radius: 20px;
 }
 .abb{
   position: absolute;
-width: 313px;
-height: 303px;
-left: 120px;
-top: -120px;
+width: 25%;
+height:110%;
+left: 8.5%;
+top: -50%;
 }
 
 .sei{
   position: absolute;
-width: 313px;
-height: 303px;
-left: 500px;
-top: -120px;
-
+width: 25%;
+height:110%;
+left: 37%;
+top: -50%;
 }
 
 .cg{
   position: absolute;
-width: 313px;
-height: 303px;
-left: 880px;
-top: -120px;
+width: 25%;
+height:110%;
+left: 66.5%;
+top: -50%;
 
 }
 
@@ -800,10 +801,10 @@ align-items: flex-start;
 padding: 6px 26px;
 
 position: absolute;
-width: 200px;
-height: 144px;
-left: 150px;
-top: 100px;
+width: 15%;
+height: 50%;
+left: 11.5%;
+top: 35%;
 
 /* White */
 
@@ -842,10 +843,10 @@ align-items: flex-start;
 padding: 6px 26px;
 
 position: absolute;
-width: 200px;
-height: 144px;
-left: 530px;
-top: 100px;
+width: 15%;
+height: 50%;
+left: 40%;
+top: 35%;
 
 /* White */
 
@@ -860,10 +861,10 @@ align-items: flex-start;
 padding: 6px 26px;
 
 position: absolute;
-width: 200px;
-height: 144px;
-left: 920px;
-top: 100px;
+width: 15%;
+height: 50%;
+left: 69.5%;
+top: 35%;
 
 /* White */
 
@@ -878,10 +879,10 @@ align-items: flex-start;
 padding: 53px 66px;
 
 position: absolute;
-width: 1100px;
-height: 100px;
-left: 140px;
-top: 2950px;
+width: 70%;
+height: 15%;
+left: 10%;
+top: 395%;
 
 /* ERS/Sec */
 

@@ -1,10 +1,10 @@
 .e1 {
   position: absolute;
-  width: 343px;
+  width: 25%;
   display: inline;
-  height: 275px;
-  left: 313px;
-  top: 484px;
+  height: 40%;
+  left: 15%;
+  top: 60%;
   /* Inside auto layout */
   flex: none;
   order: 0;
@@ -15,11 +15,11 @@
 
 .e2 {
   position: absolute;
-  width: 343px;
+  width: 25%;
   display: inline;
-  height: 275px;
-  left: 856px;
-  top: 484px;
+  height: 40%;
+  right: 15%;
+  top: 60%;
   /* Inside auto layout */
   flex: none;
   order: 0;
@@ -155,12 +155,12 @@ margin: 9px 0px;
 
 position: absolute;
 display: inline;
-width:343px;
-height: 327.3px;
-left: 313px;
-top: 484px;
+width:25%;
+height: 6%;
+left: 15%;
+top: 100%;
 
-padding-top: 280px;
+padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
@@ -199,12 +199,13 @@ border-bottom-right-radius: 11px;
 
   position: absolute;
   display: inline;
-  width:343px;
-  height: 327.3px;
-  left: 856px;
-  top: 484px;
+  width:25%;
+  height: 6%;
+  right: 15%;
 
-  padding-top: 280px;
+  top: 100%;
+
+  padding-top: 0px;
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
@@ -323,12 +324,12 @@ border-radius: 11px;
 
 .footer3 {
 position: absolute;
-top: 900px;
-left:-10px;
+top: 120%;
+
 bottom: 0px;
-Height:280px;
+Height:48%;
 right: 0px;
-width: 1520.63px;
+width: 100%;
 background-color: #3270FF;
 color: white;
 text-align: left;

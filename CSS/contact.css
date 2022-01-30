@@ -3,7 +3,7 @@
   display: inline;
 width: 612px;
 height: 81px;
-left: 60px;
+left: 10%;
 top: 380px;
 text-align: justify;
 
@@ -30,7 +30,7 @@ margin: 50px 0px;
   display: inline;
 width: 93px;
 height: 39px;
-left: 870px;
+left: 55%;
 top: 380px;
 
 font-family: Poppins;
@@ -60,7 +60,7 @@ margin: 30px 0px;
   display: inline;
 width: 91px;
 height: 27px;
-left: 855px;
+left: 55%;
 top: 470px;
 
 font-family: Nunito Sans;
@@ -90,7 +90,7 @@ margin: 0px 17px;
   display: inline;
 width: 91px;
 height: 27px;
-left: 855px;
+left: 55%;
 top: 520px;
 
 font-family: Nunito Sans;
@@ -120,7 +120,7 @@ margin: 0px 17px;
   display: inline;
 width: 91px;
 height: 27px;
-left: 855px;
+left: 55%;
 top: 570px;
 
 font-family: Nunito Sans;
@@ -150,7 +150,7 @@ margin: 0px 17px;
   display: inline;
 width: 91px;
 height: 27px;
-left: 855px;
+left: 55%;
 top: 620px;
 
 font-family: Nunito Sans;
@@ -180,7 +180,7 @@ margin: 0px 17px;
   display: inline;
 width: 400px;
 height: 27px;
-left: 990px;
+left: 62%;
 top: 470px;
 
 font-family: Nunito Sans;
@@ -208,7 +208,7 @@ margin: 0px 17px;
   display: inline;
 width: 400px;
 height: 27px;
-left: 990px;
+left: 62%;
 top: 520px;
 
 font-family: Nunito Sans;
@@ -236,7 +236,7 @@ margin: 0px 17px;
   display: inline;
 width: 400px;
 height: 27px;
-left: 990px;
+left: 62%;
 top: 570px;
 
 font-family: Nunito Sans;
@@ -264,7 +264,7 @@ margin: 0px 17px;
   display: inline;
 width: 400px;
 height: 27px;
-left: 990px;
+left: 62%;
 top: 650px;
 
 font-family: Nunito Sans;
@@ -292,7 +292,7 @@ margin: 0px 17px;
   display: inline;
 width: 610px;
 height: 403px;
-left: 870px;
+left: 55%;
 top: 710px;
 
 
@@ -306,12 +306,12 @@ margin: 50px 0px;
 
 .footer2 {
 position: absolute;
-top: 1300px;
-left:-10px;
+top: 140%;
+
 bottom: 0px;
-Height:280px;
+Height:48%;
 right: 0px;
-width: 1520.63px;
+width: 100%;
 background-color: #3270FF;
 color: white;
 text-align: left;
@@ -322,7 +322,7 @@ text-align: left;
   display: inline;
 width: 612px;
 height: 403px;
-left: 60px;
+left: 10%;
 top: 630px;
 
 }
@@ -331,7 +331,7 @@ top: 630px;
   position: absolute;
 width: 258px;
 height: 39px;
-left: 60px;
+left: 10%;
 top: 550px;
 
 font-family: Poppins;

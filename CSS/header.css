@@ -240,3 +240,58 @@ border-radius: 11px;
   background-color: white;
   color: #3270FF;
 }
+.aut4{
+  position: absolute;
+width: 156.79px;
+height: 84.31px;
+left: 60px;
+top: 10px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 30px;
+}
+.aut1{
+  position: absolute;
+width: 243px;
+height: 18px;
+left: 280px;
+top: 10px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+}
+
+.aut2{
+  position: absolute;
+width: 56.79px;
+height: 29.53px;
+left: 320px;
+top: 50px;
+}
+.aut3{
+  position: absolute;
+width: 56.79px;
+height: 29.53px;
+left: 400px;
+top: 50px;
+}

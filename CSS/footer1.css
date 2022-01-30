@@ -182,3 +182,22 @@ border-color: white;
   color: #FFFFFF;
 
 }
+
+.fet{
+  position: absolute;
+  display: inline;
+  width: 400px;
+  height: 39px;
+  left: 20%;
+  top: 0px;
+  padding-left: 0px;
+  padding-top: 9%;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 35px;
+  letter-spacing: 0.035em;
+
+
+}

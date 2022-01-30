@@ -297,3 +297,32 @@ border-bottom-right-radius: 11px;
   color: white;
   text-align: left;
 }
+
+.mot1{
+  position: absolute;
+width: 870px;
+height: 65px;
+left: 10%;
+top: 23%;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 109%;
+/* or 65px */
+
+letter-spacing: -0.02em;
+
+/* ERS/Black */
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 9px 0px;
+}

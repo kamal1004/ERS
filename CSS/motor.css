@@ -4,8 +4,8 @@
   display: inline;
   height: 35%;
   left: 10%;
-  top: 40%;
-  /* Inside auto layout */
+  top: 45%;
+
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -20,7 +20,7 @@ display: inline;
 width:23%;
 height: 7.5%;
 left: 10%;
-top: 75%;
+top: 80%;
 
 padding-top: 0px;
 font-family: Poppins;
@@ -61,7 +61,7 @@ border-bottom-right-radius: 11px;
   display: inline;
   height: 35%;
   left: 40%;
-  top: 40%;
+  top: 45%;
   /* Inside auto layout */
   flex: none;
   order: 0;
@@ -78,7 +78,7 @@ display: inline;
 width:23%;
 height: 7.5%;
 left: 40%;
-top: 75%;
+top: 80%;
 
 padding-top: 0px;
 font-family: Poppins;
@@ -121,7 +121,7 @@ border-bottom-right-radius: 11px;
   display: inline;
   height: 35%;
   left: 70%;
-  top: 40%;
+  top: 45%;
   /* Inside auto layout */
   flex: none;
   order: 0;
@@ -136,7 +136,7 @@ display: inline;
 width:23%;
 height: 7.5%;
 left: 70%;
-top: 75%;
+top: 80%;
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
@@ -173,7 +173,7 @@ border-bottom-right-radius: 11px;
   display: inline;
   height: 35%;
   left: 10%;
-  top: 90%;
+  top: 95%;
   /* Inside auto layout */
   flex: none;
   order: 0;
@@ -188,7 +188,7 @@ display: inline;
 width:23%;
 height: 7.5%;
 left: 10%;
-top: 125%;
+top: 130%;
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
@@ -227,7 +227,7 @@ border-bottom-right-radius: 11px;
   display: inline;
   height: 35%;
   left: 40%;
-  top: 90%;
+  top: 95%;
   /* Inside auto layout */
   flex: none;
   order: 0;
@@ -242,7 +242,7 @@ display: inline;
 width:23%;
 height: 7.5%;
 left: 40%;
-top: 125%;
+top: 130%;
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
@@ -272,7 +272,7 @@ border-bottom-right-radius: 11px;
 
 .footer6{
   position: absolute;
-  top: 140%;
+  top: 145%;
 
   bottom: 0px;
   Height:58%;
@@ -288,7 +288,7 @@ border-bottom-right-radius: 11px;
 width: 80%;
 height: 20%;
 left: 10%;
-top: 25%;
+top: 28%;
 
 font-family: Roboto Slab;
 font-style: normal;

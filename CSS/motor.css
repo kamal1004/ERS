@@ -1,31 +1,32 @@
 .x1{
   position: absolute;
-  width: 30%;
-  height: 60%;
+  width: 23%;
+  display: inline;
+  height: 35%;
   left: 10%;
-  padding-top: 15%;
-
-
+  top: 40%;
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
   margin: 0px 0px;
+  z-index: 5;
 }
 
 .buttona1{
 
 position: absolute;
 display: inline;
-width:30%;
+width:23%;
 height: 6%;
 left: 10%;
-top: 85%;
+top: 75%;
 
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
-font-size: 12px;
+font-size: 10px;
 line-height: 24px;
 
 
@@ -54,19 +55,19 @@ border-bottom-right-radius: 11px;
   background-color: white;
   color: #3270FF;
 }
-
 .x2{
   position: absolute;
-  width: 30%;
-  height: 60%;
-  left: 60%;
-  padding-top: 15%;
-
-
+  width: 23%;
+  display: inline;
+  height: 35%;
+  left: 40%;
+  top: 40%;
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
   margin: 0px 0px;
+  z-index: 5;
 }
 
 
@@ -74,16 +75,16 @@ border-bottom-right-radius: 11px;
 
 position: absolute;
 display: inline;
-width:30%;
+width:23%;
 height: 6%;
-left: 60%;
-top: 85%;
+left: 40%;
+top: 75%;
 
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
-font-size: 12px;
+font-size: 10px;
 line-height: 24px;
 
 
@@ -112,43 +113,37 @@ border-bottom-right-radius: 11px;
   background-color: white;
   color: #3270FF;
 }
-.x9{
+
+
+.x3{
   position: absolute;
-  width: 30%;
-  height: 60%;
-  left: 10%;
-  padding-top: 50%;
-
-
+  width: 23%;
+  display: inline;
+  height: 35%;
+  left: 70%;
+  top: 40%;
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
   margin: 0px 0px;
-
+  z-index: 5;
 }
 
 .buttonc1{
-
 position: absolute;
 display: inline;
-width:30%;
+width:23%;
 height: 6%;
-left: 10%;
-top: 158%;
-
+left: 70%;
+top: 75%;
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
-font-size: 12px;
+font-size: 10px;
 line-height: 24px;
-
-
-
 color: #3270FF;
-
-
-
 flex: none;
 order: 4;
 flex-grow: 0;
@@ -157,7 +152,6 @@ background: #3270FF;
 border-color: #3270FF;
 border-bottom-left-radius: 11px;
 border-bottom-right-radius: 11px;
-
 }
 
 .buttonc2:hover  {
@@ -170,43 +164,38 @@ border-bottom-right-radius: 11px;
   color: #3270FF;
 }
 
+
+
+
 .x4{
   position: absolute;
-  width: 30%;
-  height: 60%;
-  left: 60%;
-  top:104%;
-
-
+  width: 23%;
+  display: inline;
+  height: 35%;
+  left: 10%;
+  top: 90%;
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
   margin: 0px 0px;
+  z-index: 5;
 }
 
-
 .buttond1{
-
 position: absolute;
 display: inline;
-width:30%;
+width:23%;
 height: 6%;
-left: 60%;
-top: 158%;
-
+left: 10%;
+top: 125%;
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
-font-size: 12px;
+font-size: 10px;
 line-height: 24px;
-
-
-
 color: #3270FF;
-
-
-
 flex: none;
 order: 4;
 flex-grow: 0;
@@ -215,7 +204,6 @@ background: #3270FF;
 border-color: #3270FF;
 border-bottom-left-radius: 11px;
 border-bottom-right-radius: 11px;
-
 }
 
 .buttond2:hover  {
@@ -228,42 +216,40 @@ border-bottom-right-radius: 11px;
   color: #3270FF;
 }
 
+
+
+
+
+
 .x5{
   position: absolute;
-  width: 30%;
-  height: 60%;
-  left: 35%;
-  top:170%;
-
-
+  width: 23%;
+  display: inline;
+  height: 35%;
+  left: 40%;
+  top: 90%;
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
   margin: 0px 0px;
+  z-index: 5;
 }
 
-.buttonf1{
-
+.buttone1{
 position: absolute;
 display: inline;
-width:30%;
+width:23%;
 height: 6%;
-left: 35%;
-top: 224%;
-
+left: 40%;
+top: 125%;
 padding-top: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
-font-size: 12px;
+font-size: 10px;
 line-height: 24px;
-
-
-
 color: #3270FF;
-
-
-
 flex: none;
 order: 4;
 flex-grow: 0;
@@ -272,22 +258,21 @@ background: #3270FF;
 border-color: #3270FF;
 border-bottom-left-radius: 11px;
 border-bottom-right-radius: 11px;
-
 }
 
-.buttonf2:hover  {
+.buttone2:hover  {
   background-color:#3270FF ;
   color: white;
 }
 
-.buttonf2{
+.buttone2{
   background-color: white;
   color: #3270FF;
 }
 
 .footer6{
   position: absolute;
-  top: 240%;
+  top: 140%;
 
   bottom: 0px;
   Height:48%;
@@ -300,10 +285,10 @@ border-bottom-right-radius: 11px;
 
 .mot1{
   position: absolute;
-width: 870px;
-height: 65px;
+width: 80%;
+height: 20%;
 left: 10%;
-top: 23%;
+top: 25%;
 
 font-family: Roboto Slab;
 font-style: normal;

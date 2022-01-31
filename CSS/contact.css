@@ -1,16 +1,16 @@
 .c1{
   position: absolute;
   display: inline;
-width: 612px;
-height: 81px;
+width: 35%;
+height: 30%;
 left: 10%;
-top: 45%;
+top: 50%;
 text-align: justify;
 
 font-family: Nunito Sans;
 font-style: normal;
 font-weight: normal;
-font-size: 20px;
+font-size: 18px;
 line-height: 27px;
 letter-spacing: 0.035em;
 
@@ -22,15 +22,15 @@ color: #000000;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 50px 0px;
+margin: 0px 0px;
 }
 
 .c2{
   position: absolute;
   display: inline;
-width: 93px;
-height: 39px;
-left: 55%;
+width: 10%;
+height: 15%;
+left: 50%;
 top: 45%;
 
 font-family: Poppins;
@@ -58,8 +58,8 @@ margin: 30px 0px;
 .c3{
   position: absolute;
   display: inline;
-width: 91px;
-height: 27px;
+width: 10%;
+height: 15%;
 left: 55%;
 top: 60%;
 
@@ -82,14 +82,14 @@ color: #3270FF;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 0px 17px;
+margin: 0px 2%;
 }
 
 .c4{
   position: absolute;
   display: inline;
-width: 91px;
-height: 27px;
+width: 10%;
+height: 15%;
 left: 55%;
 top: 70%;
 
@@ -112,14 +112,14 @@ color: #3270FF;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 0px 17px;
+margin: 0px 2%;
 }
 
 .c5{
   position: absolute;
   display: inline;
-width: 91px;
-height: 27px;
+width: 15%;
+height: 15%;
 left: 55%;
 top: 80%;
 
@@ -142,14 +142,14 @@ color: #3270FF;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 0px 17px;
+margin: 0px 2%;
 }
 
 .c6{
   position: absolute;
   display: inline;
-width: 91px;
-height: 27px;
+width: 15%;
+height: 15%;
 left: 55%;
 top: 90%;
 
@@ -172,14 +172,14 @@ color: #3270FF;
 flex: none;
 order: 0;
 flex-grow: 0;
-margin: 0px 17px;
+margin: 0px 2%;
 }
 
 .c7{
   position: absolute;
   display: inline;
-width: 400px;
-height: 27px;
+width: 30%;
+height: 5%;
 left: 62%;
 top: 60%;
 
@@ -200,7 +200,7 @@ color: #000000;
 flex: none;
 order: 1;
 flex-grow: 0;
-margin: 0px 17px;
+margin: 0px 2%;
 }
 
 .c8{
@@ -290,9 +290,9 @@ margin: 0px 17px;
 .maps{
   position: absolute;
   display: inline;
-width: 610px;
-height: 403px;
-left: 55%;
+width: 20%;
+height: 40%;
+left: 50%;
 top: 100%;
 
 
@@ -329,8 +329,8 @@ top: 80%;
 
 .c11{
   position: absolute;
-width: 258px;
-height: 39px;
+width: 30%;
+height: 15%;
 left: 10%;
 top: 65%;
 
@@ -357,9 +357,9 @@ margin: 30px 0px;
 
 
 .fo1 {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 6px 0;
+  width: 60%;
+  padding: 2% 2%;
+  margin: 1% 0;
   box-sizing: border-box;
   border-radius: 11px;
   border-color: black;
@@ -378,8 +378,8 @@ align-items: center;
 .button41{
 
 position: absolute;
-width:148.17px;
-height: 52.3px;
+width:20%;
+height: 10%;
 left: 1%;
 top: 140%;
 

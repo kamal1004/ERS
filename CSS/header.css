@@ -144,19 +144,19 @@ align-items: center;
 padding: 0px;
 
 position: static;
-width: 517.17px;
+width: 100%;
 height: 52.3px;
-left: 782.83px;
+padding-left: 0%;
 top: 2.35px;
 
 
 
-/* Inside auto layout */
+
 
 flex: none;
 order: 1;
 flex-grow: 0;
-margin: 0px 900px;
+margin: 0px 27%;
 }
 #totbox{
   display: flex;
@@ -166,7 +166,7 @@ margin: 0px 900px;
   padding: 0px;
 
   position: static;
-  width: 1500px;
+  width: 100%;
   height: 57px;
   left: 106px;
   top: 27.5px;

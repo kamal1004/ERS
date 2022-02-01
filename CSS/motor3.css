@@ -1,0 +1,254 @@
+.m1{
+  position: absolute;
+width: 70%;
+height: 20%;
+left: 25%;
+top: 23%;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 109%;
+
+
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+
+.m2{
+  position: absolute;
+  width: 60%;
+  display: inline;
+  height: 55%;
+  left: 25%;
+  top: 50%;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 0px;
+  z-index: 5;
+  border-radius: 20px;
+}
+
+.m3{
+  position: absolute;
+width: 15%;
+height: 15%;
+left: 5%;
+top: 40%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 39px;
+
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.dropbtn {
+    background-color: rgba(50, 112, 255, 0.3);;
+    color: black;
+    padding: 10px;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    border-style: none;
+
+}
+.dropdown {
+    display: inline-block;
+    position: absolute;
+    top:55%;
+    left:5%;
+    width:40%
+}
+.dropdown-content {
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+    display: none;
+    z-index: 1;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+.dropdown-content a:hover {
+    background-color: #3270FF;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: white;
+}
+
+
+.buttonp2{
+
+position: absolute;
+display: inline;
+width:12%;
+height: 52.3px;
+left: 40%;
+top: 110%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: #3270FF;
+
+
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+background: #3270FF;
+border-radius: 11px;
+
+}
+
+
+.buttonp22:hover {
+  background-color:#3270FF ;
+  color: white;
+}
+
+.buttonp22 {
+  background-color: white;
+  color: #3270FF;
+}
+
+
+.buttonp1{
+
+position: absolute;
+display: inline;
+width:12%;
+height: 52.3px;
+left: 25%;
+top: 110%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: #3270FF;
+
+
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+background: #3270FF;
+border-radius: 11px;
+
+}
+
+
+.buttonp11{
+  background-color:#3270FF ;
+  color: white;
+}
+
+.buttonp11:hover {
+  background-color: white;
+  color: #3270FF;
+}
+
+.m4{
+  position: absolute;
+width: 40%;
+height: 15%;
+left: 25%;
+top: 125%;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 109%;
+
+
+letter-spacing: -0.02em;
+
+
+
+color: #000000;
+
+
+
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.m5{
+  position: absolute;
+width: 60%;
+height: 60%;
+left: 25%;
+top: 140%;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 0.035em;
+color:#000000;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 29px 0px;
+}
+
+.footer8{
+  position: absolute;
+  top: 185%;
+
+  bottom: 0px;
+  Height:58%;
+  right: 0px;
+  width: 100%;
+  background-color: #3270FF;
+  color: white;
+  text-align: left;
+}

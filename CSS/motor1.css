@@ -1,0 +1,33 @@
+.m1{
+  position: absolute;
+width: 70%;
+height: 20%;
+left: 25%;
+top: 23%;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 109%;
+/* or 65px */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+
+.m2{
+  position: absolute;
+  width: 70%;
+  display: inline;
+  height: 60%;
+  left: 25%;
+  top: 50%;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 0px;
+  z-index: 5;
+}
